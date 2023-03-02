@@ -4,7 +4,11 @@ class demo
 	{
 		s.o.print("hallo world")
 	}
+<<<<<<< HEAD
 }
 
 
 
+=======
+}	
+>>>>>>> dev
